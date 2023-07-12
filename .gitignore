@@ -1,36 +1,13 @@
-# Idea
-.idea/*
 
-# Mac OS
 .DS_Store
-
-# Byte-compiled / optimized / DLL files
-*.manifest
-*.spec
-
-# Jekyll dev or build
-_site/*
-_development_tool/*
-.sass-cache/*
-*.css.map
-*.scssc
-.bundle/*
-/vendor/
-.jekyll-cache/*
-*/.jekyll-cache/*
-
-# Theme Gem
-Gemfile.lock
-*.gem
-.gems
-jekyll-theme-type-on-strap.gemspec
-
-# Node.js
-**/node_modules/*
-**/package-lock.json
-
-# Misc
-*-test.md
-*copy.md
-test/*
-/type-on-strap*/*
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/the-mvm.github.io.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.vscode/settings.json
+/.vscode/
+/.idea/
+.liquidrc
