@@ -1,41 +1,39 @@
 
-# Free Portfolio Website
+# React + Tailwind AI Portfolio
 
-## How to Run Locally
-1. Download the files
-2. Open `index.html` in your browser
+## Setup
 
-## How to Host for Free Using GitHub Pages
+Install dependencies:
 
-1. Create a GitHub account:
-https://github.com
+npm install
 
-2. Create a new repository named:
-`yourusername.github.io`
+Run locally:
 
-3. Upload all files
+npm run dev
 
-4. Go to:
-Settings → Pages
+Build:
 
-5. Under Source:
-Deploy from branch → main → root
+npm run build
 
-6. Save
+## Free Hosting
 
-Your portfolio will be live at:
-https://yourusername.github.io
+You can host free on:
 
-## Files
-- index.html
-- style.css
+- https://vercel.com/
+- https://www.netlify.com/
+- https://pages.github.com/
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
 
 ## Customize
-Replace:
-- Your Name
-- Email
-- GitHub profile
-- LinkedIn profile
-- Project descriptions
 
-with your own information.
+Edit:
+- src/App.jsx
+- Contact details
+- Projects
+- Skills
+- Colors
